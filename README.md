@@ -11,3 +11,6 @@
 ### published it privately
 ### testing branch
 ### writing a hello world output
+### merging them
+### made a new account to test collaboration
+### get the git log 
